@@ -6,7 +6,7 @@ import time
 st.header("ShuShuMei Bakery")
 
 option = st.sidebar.selectbox(
-    'Our Menu'
+    'Our Menu',
      ['Bread','Cake','Pastery','Inbox','T n C'])
 
 if option=='Bread':
