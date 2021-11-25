@@ -11,19 +11,19 @@ option = st.sidebar.selectbox(
 
 if option=='Bread':
     st.write('Our Bread are freshly made everyday to ensure your happines :)')
-    st.image ('white bread.jpg', use_column_width=True)
-    st.image ('croissant.jpg', use_column_width=True)
+    st.image ('white bread.jpg',use_column_width=True)
+    st.image ('croissant.jpg',use_column_width=True)
 
 
 elif option=='Cake':
   st.write('Our Cake are freshly bake everyday to satisfy your craves :)')
-  st.image ('cheesecake.jpg', use_column_width=True)
-  st.image ('sponge cake.jpg', use_column_width=True)
+  st.image ('cheesecake.jpg',use_column_width=True)
+  st.image ('sponge cake.jpg',use_column_width=True)
 
 elif option=='Pastery':
   st.write('Our Pastery are freshly bake everyday for our lovely customers :)')
-  st.image ('karipap.jpg', use_column_width=True)
-  st.image ('Pie.jpg', use_column_width=True)
+  st.image ('karipap.jpg',use_column_width=True)
+  st.image ('Pie.jpg',use_column_width=True)
 
 elif option=='Inbox':
   st.write('We will uploads more menus  in this website... stay tuned and support our bakery with love!!! ')
