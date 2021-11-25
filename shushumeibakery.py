@@ -23,7 +23,7 @@ elif option=='Cake':
 elif option=='Pastery':
   st.write('Our Pastery are freshly bake everyday for our lovely customers :)')
   st.image ('karipap.jpg',use_column_width=True)
-  st.image ('Pie.jpg',use_column_width=True)
+  st.image ('pie.jpg',use_column_width=True)
 
 elif option=='Inbox':
   st.write('We will uploads more menus  in this website... stay tuned and support our bakery with love!!! ')
